@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Week 7 in class Tutorial  
 
-DO NOT LEAVE IT LIKE THIS!!!
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
